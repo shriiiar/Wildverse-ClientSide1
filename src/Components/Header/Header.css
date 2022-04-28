@@ -1,0 +1,19 @@
+.nav-bg{
+    background-color: teal;
+}
+.navLink, .navLink-header{
+    font-size: 20px;
+}
+
+.navLink-header{
+    color: teal;
+    text-decoration: none;
+}
+
+.navbar-toggler-icon, .navbar-toggler, .collapsed{
+    background-color: teal;
+}
+
+.user-name{
+    color: rgb(44, 44, 44);
+}

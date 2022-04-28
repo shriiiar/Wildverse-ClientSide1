@@ -1,0 +1,26 @@
+.emptyCart-btn{
+    color: whitesmoke;
+    background-color: #cf0a2c;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    transition: 0.3s;
+}
+
+.emptyCart-btn:hover{
+    color: black;
+    border-radius: 10px;
+}
+.checkout-btn{
+    color: whitesmoke;
+    background-color: teal;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    transition: 0.3s;
+}
+
+.checkout-btn:hover{
+    color: black;
+    border-radius: 10px;
+}

@@ -1,0 +1,9 @@
+.aboutMe video {
+  width: 100%;
+  border: white !important;
+  border-radius: 15px;
+}
+
+img {
+    border-radius: 15px;
+}

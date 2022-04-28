@@ -1,0 +1,26 @@
+[
+  {
+    "serial": 4,
+    "description": "To the depth of Africa, Cold air breezing with chills of danger all around",
+    "name": "Depths Of Africa",
+    "price": 199,
+    "img": "https://wallpaperaccess.com/full/1316912.jpg",
+    "rating": 5
+  },
+  {
+    "serial": 5,
+    "description": "Brace for impact, Enter the night black Atlantic",
+    "name": "Deadly Atlantic",
+    "price": 235,
+    "img": "https://c1.wallpaperflare.com/preview/214/1009/313/boot-from-above-top-view-hai.jpg",
+    "rating": 4.7
+  },
+  {
+    "serial": 6,
+    "description": "Let the wings spread, To the verse of Sky",
+    "name": "Wings Towards Sky",
+    "price": 180,
+    "img": "https://images.unsplash.com/photo-1580100124280-a40415d0ab21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1168&q=80",
+    "rating": 4.5
+  }
+]

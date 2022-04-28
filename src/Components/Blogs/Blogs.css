@@ -1,0 +1,11 @@
+.blog{
+    margin: 160px 0;
+    text-align: center;
+
+}
+.blogs h1{
+    color: teal;
+}
+.blogs p{
+    font-weight: 500;
+}

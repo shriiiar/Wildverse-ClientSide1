@@ -1,0 +1,9 @@
+.footer{
+    background-color: rgb(39, 39, 39);
+    color: whitesmoke;
+    bottom: 0 !important;
+}
+.row-footer{
+    margin: auto 0;
+    justify-content: center;
+}

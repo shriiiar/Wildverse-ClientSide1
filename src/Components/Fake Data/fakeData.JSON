@@ -1,0 +1,55 @@
+[
+  {
+    "serial": 1,
+    "description": "In the depths of africa, With danger roaming all around a true deadly experience it was.",
+    "name": "Elephant in Water",
+    "price": 25,
+    "img": "https://images.pexels.com/photos/247431/pexels-photo-247431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 5
+  },
+  {
+    "serial": 2,
+    "description": "To the ruins of mounts, Grizzly Bear is here to give you a hug",
+
+    "name": "Grizzly Bear",
+    "price": 30,
+    "img": "https://images.pexels.com/photos/1068554/pexels-photo-1068554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 4.8
+  },
+  {
+    "serial": 3,
+    "description": "Floating with the tides of Indian Ocean, Dolphins do amaze me",
+
+    "name": "Pod of Dolphins",
+    "price": 15,
+    "img": "https://images.pexels.com/photos/2422915/pexels-photo-2422915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 5
+  },
+  {
+    "serial": 4,
+    "description": "In the depths of coast of africa, All snake eyes on me",
+
+    "name": "Green Reptile",
+    "price": 29,
+    "img": "https://images.pexels.com/photos/927497/pexels-photo-927497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 5
+  },
+  {
+    "serial": 5,
+    "description": "The King of jungle, Just being the King it was meant to be",
+
+    "name": "Grass and Roaring",
+    "price": 35,
+    "img": "https://images.pexels.com/photos/7280783/pexels-photo-7280783.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 4.7
+  },
+  {
+    "serial": 6,
+    "description": "Just how fast the night changes, An owl just wokes up",
+
+    "name": "Owl",
+    "price": 70,
+    "img": "https://images.pexels.com/photos/1543417/pexels-photo-1543417.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 4.5
+  }
+]
